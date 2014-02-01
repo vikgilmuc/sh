@@ -14,7 +14,7 @@ class JConfig {
 	public $dbtype = 'mysql';
 	public $host = 'localhost';
 	public $user = 'u17958_sa10304';
-	public $password = 'DSpPcQu238fTMFUu';
+	public $password = 'SHuhUYRYf9DH4j2m' ;
 	public $db = 'db17958_smiley-homes';
 	public $dbprefix = 'lqstn_';
 	public $live_site = '';
@@ -54,8 +54,8 @@ class JConfig {
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
-	public $log_path = 'C:\\xampp\\htdocs\\smiley-homes/logs';
-	public $tmp_path = 'C:\\xampp\\htdocs\\smiley-homes/tmp';
+	public $log_path = '/logs';
+	public $tmp_path = '/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $MetaRights = '';

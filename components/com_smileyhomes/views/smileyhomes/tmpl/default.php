@@ -27,6 +27,7 @@
 		echo '<td><p>' . $wohnung->typ . '</p></td>';
 		echo '<td><p>' . $wohnung->ebene . '</p></td>';
 		echo '<td><p>' . $wohnung->meter . '</p></td>';
+		//echo '<td><p>' . $wohnung->meter . '</p></td>';
 		echo '<td><p>';if($wohnung->G=='1'){echo'<img src='.(JURI::base()).'images/tick.gif>';}echo'</p></td>';
 		echo '<td><p>';if($wohnung->B=='1'){echo'<img src='.(JURI::base()).'images/tick.gif>';}echo'</p></td>';
 		echo '<td><p>';if($wohnung->T=='1'){echo'<img src='.(JURI::base()).'images/tick.gif>';}echo'</p></td>';

@@ -6,12 +6,12 @@ DEFINE('_ISO','charset=iso-8859-1');
 <div id="projekt_zirl">
 <div class="row" style="position:relative; z-index:0">
 <div class="">
-<audio autoplay="autoplay">
+<!--<audio autoplay="autoplay">
   <source src="<?php echo (JURI::base())?>/images/bird.mp3" type="audio/mpeg">
   <source src="<?php echo (JURI::base())?>/images/bird.ogg" type="audio/ogg">
 
   <embed height="50" width="100" src="<?php echo (JURI::base())?>images/bird.mp3">
-</audio>
+</audio>  -->
 
 	<div id="page-wrapper">
 		<div id="parallax-bg1" class="a100">
@@ -20,13 +20,14 @@ DEFINE('_ISO','charset=iso-8859-1');
 					<div class="panel" id="panel1">
 						<div class="info">
 							<div class="infoContent">
-								<h2><span style="color:red">Smiley Homes </span><span style="color:yellow">in Zirl</span> steht für zeitgemäßes Wohnen & für gesunde Lebensqualität zur Miete auf höchstem Niveau.<span style="color:yellow"> Zirl</span> ist das erste verwirklichte Projekt nach dem Gründsetzen von Smiley Homes.
+								<h2><span style="color:red">Smiley Homes </span><span style="color:yellow">in Zirl</span> steht für <br/>zeitgemäßes Wohnen & für gesunde Lebensqualität zur Miete auf höchstem Niveau.<br/>
+								<span style="color:yellow"> Zirl</span> ist das erste Projekt bei dem ideen von <br/> Smiley-Homes verwirklicht worden sind.
 								</h2>
 								<h3></h3>
 							</div>
 						</div>
 						
-						<img class="img-responsive" style="width:100%"src="<?php echo (JURI::base())?>/images/home/DSCN0451b.jpg" alt="Kuche" />
+						<img class="img-responsive" style="width:100%"src="<?php echo (JURI::base())?>/images/home/virtual.png" alt="Kuche" />
 
 					</div>
 					<!--  <div class="panel" id="panel2">
